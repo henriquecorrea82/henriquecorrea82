@@ -1,4 +1,4 @@
-# Henrique Corrêa
+# :bust_in_silhouette: Henrique Corrêa
 
 Software Engineer • Tech Entrepreneur • System Architect
 
@@ -8,7 +8,7 @@ Founder of **Hensco**, where I develop technology solutions for businesses and d
 
 ---
 
-# Areas of Work
+# :technologist: Areas of Work
 
 - Port Management Systems
 - Healthcare Systems
@@ -18,7 +18,7 @@ Founder of **Hensco**, where I develop technology solutions for businesses and d
 
 ---
 
-# Main Projects
+# :computer: Main Projects
 
 ## Adventure Route Management
 System for Managing Adventure Routes for Foot Enduro Teams
@@ -46,7 +46,7 @@ Healthcare platform connecting hospitals, patients and guardians.
 
 ---
 
-# Technical Skills
+# :raising_hand: Technical Skills
 
 Backend
 - PHP
@@ -68,7 +68,7 @@ Architecture
 
 ---
 
-# Portfolio
+# :ledger: Portfolio
 
 You can also see my work at:
 
@@ -76,7 +76,7 @@ https://www.henriquecorrea.com/portfolio
 
 ---
 
-# Contact
+# :incoming_envelope: Contact
 
 - [LinkedIn](https://www.linkedin.com/in/henriquecorrea/) 
 - [Website](henriquecorrea.com)  
