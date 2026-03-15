@@ -1,16 +1,84 @@
-## Hi there 👋
+# Henrique Corrêa
 
-<!--
-**henriquecorrea82/henriquecorrea82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer • Tech Entrepreneur • System Architect
 
-Here are some ideas to get you started:
+I am a Brazilian software engineer focused on building scalable digital systems for logistics, healthcare and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of **Hensco**, where I develop technology solutions for businesses and digital platforms.
+
+---
+
+# Areas of Work
+
+- Port Management Systems
+- Healthcare Systems
+- AI-driven Automation
+- Web Platforms
+- Data Architecture
+
+---
+
+# Main Projects
+
+## Adventure Route Management
+System for Managing Adventure Routes for Foot Enduro Teams
+
+Technologies:
+- PHP
+- MySQL
+- Javascript
+
+## Port Management System
+Systems for cargo control, yard logistics and port operations.
+
+Technologies:
+- Scriptcase
+- SQL Server
+  
+## Porto Sem Papel Integration
+Integration with Brazilian government maritime systems.
+
+## API Recintos Integration
+Integration of customs data with the Brazilian Federal Revenue Service.
+
+## VittaHub
+Healthcare platform connecting hospitals, patients and guardians.
+
+---
+
+# Technical Skills
+
+Backend
+- PHP
+- C#
+- .NET
+- SQL Server
+- MySQL/MariaDB
+- Oracle
+
+Frontend
+- React
+- Flutter
+- CSS
+- HTML5
+
+Architecture
+- REST APIs
+- DevSecOps
+
+---
+
+# Portfolio
+
+You can also see my work at:
+
+https://www.henriquecorrea.com/portfolio
+
+---
+
+# Contact
+
+- [LinkedIn](https://www.linkedin.com/in/henriquecorrea/) 
+- [Website](henriquecorrea.com)  
+
+
